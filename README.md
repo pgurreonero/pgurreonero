@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pgurreonero
+- 👀 I’m interested in software architectures
+- 🌱 I’m currently learning cloud computing
+- 💞️ I’m looking to collaborate on not profit projects
+- 📫 How to reach me pgurreonero@loyalty.com
