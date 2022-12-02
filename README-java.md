@@ -3,7 +3,8 @@
 "You must unlearn what you have learned."
 "The greatest teacher, failure is."
 ## 
-![Joda](https://bbts1.azureedge.net/images/p/full/2020/01/c58f6f4d-8622-44c3-b68d-e464ba045503.jpg=250x250)
+![Joda](https://bbts1.azureedge.net/images/p/full/2020/01/c58f6f4d-8622-44c3-b68d-e464ba045503.jpg)
+<img src="https://github.com/favicon.ico" width="48">
 ## FAQ
 
 #### Question 1: Can I modify the DSK directory structures of my project?
