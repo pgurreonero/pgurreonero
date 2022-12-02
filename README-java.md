@@ -3,7 +3,7 @@
 <p align="center">
 "You must unlearn what you have learned."
 "The greatest teacher, failure is."</p>
-## 
+
 <p align="center"><img src=https://bbts1.azureedge.net/images/p/full/2020/01/c58f6f4d-8622-44c3-b68d-e464ba045503.jpg width="300"></p>
 ## FAQ
 
