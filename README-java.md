@@ -30,6 +30,6 @@ The basic review could cover the followings:
 4. Every new funtionality need to be tested: Testing the functionality and output of the new code sections can drastically reduce review time later.
 5. Ensure pull requests are small and with a singular purpose
 
-#### Question 4: How to avoid pipeline errors?
+#### Question 6: How to avoid pipeline errors?
 You could use gradlew commands before push your code e.g. gradlew test, gradlew build, etc. Other common error is the dockerfile fail, to test it you can use: docker build -f "path/to/file" -t "example" .
 
